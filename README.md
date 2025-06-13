@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=ofluffydev&color=blueviolet)
 
+Notice: I decided to move to primarily using codeberg, I might push things here out of habit now and then, but see [my codeberg](https://codeberg.org/ofluffydev) for the rest of my stuff :P
+
+Why? Read these, GitHub isn't the best platform to store all your projects/code.
+- https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
+- https://docs.codeberg.org/getting-started/what-is-codeberg/
+
 I'm a computer science and software engineering enthusiast who thrives on building meaningful, practical tools! (Especially ones that repurpose older hardware or empower others to be more productive)
 
 I specialize in systems programming, low-level Rust, and web tech like HTML, CSS, and JavaScript, but I also know my way around Java and several other languages.
